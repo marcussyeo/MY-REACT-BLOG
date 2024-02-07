@@ -19,3 +19,9 @@ npm install
 ```
 npm run start
 ```
+
+## Using temporary json server to store data
+
+```
+npx json-server --watch data/db.json --port 8000
+```
