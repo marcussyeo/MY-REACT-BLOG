@@ -4,7 +4,11 @@ This is a README file for a React blog project. It contains information about in
 
 Link to My Blog: https://marcus-yeo-blog.vercel.app/
 
-NOTE: Currently I'm using JSON saerver to temporary store the data hence cannot create or delete new blog posts since there is no fetch request. Will be transitioning to another databse soon!
+NOTE: Currently I'm using JSON server to temporarily store the data hence I cannot create or delete new blog posts since there is no fetch request. Will be transitioning to another database soon!
+
+![Screenshot 2024-02-08 at 12 22 14 AM](https://github.com/marcussyeo/MY-REACT-BLOG/assets/66177132/09a66e16-e113-44e8-ab2c-00f23b332475)
+
+![Screenshot 2024-02-08 at 12 22 29 AM](https://github.com/marcussyeo/MY-REACT-BLOG/assets/66177132/9fb56c58-19c1-4620-9384-4a92269153bc)
 
 ## Installation
 
