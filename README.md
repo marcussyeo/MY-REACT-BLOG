@@ -2,6 +2,10 @@
 
 This is a README file for a React blog project. It contains information about installation, running the project locally, setting up a temporary JSON server for data storage, notes on specific React Router changes, and skills utilized in the project.
 
+Link to My Blog: https://marcus-yeo-blog.vercel.app/
+
+NOTE: Currently I'm using JSON saerver to temporary store the data hence cannot create or delete new blog posts since there is no fetch request. Will be transitioning to another databse soon!
+
 ## Installation
 
 To install and set up the project, follow these steps:
